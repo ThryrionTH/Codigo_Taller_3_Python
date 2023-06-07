@@ -2,8 +2,9 @@
 """
 Created on Sun Jun 26 16:00:07 2022
 
-@author: RONALD
+@author: RONALD CEBALLOS
 """
+
 #Taller 3
 #Programacion en lenguajes estadisticos
 #Ronald Mateo Ceballos Lozano
